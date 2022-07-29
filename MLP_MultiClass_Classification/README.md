@@ -4,4 +4,5 @@ In this project, I implemented an MLP model with pytorch framework for a multi-c
 3. Effets of various number of layers and neurons.
 4. Implementing data augmentation techniques and drop out layers to prevent overfitting.
 5. Fine-Tuning hyper-parameters.
-** In the end, I achieved test accuray of 95.83% and train accuracy of 97.59%.**
+
+**In the end, I achieved test accuray of 95.83% and train accuracy of 97.59%.**
